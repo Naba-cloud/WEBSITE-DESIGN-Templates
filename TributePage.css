@@ -1,0 +1,27 @@
+#main
+{
+   text-align: center;
+   background-color:silver;
+}
+body{
+    background-color: silver;
+}
+#img-div
+{
+   background: white;
+}
+#tribute-info
+{
+    text-align: center;
+}
+ul
+{
+    text-align: center;
+}
+#image
+{
+    text-align: center;
+    max-width: 100%;
+    display:inline-block;
+    
+}

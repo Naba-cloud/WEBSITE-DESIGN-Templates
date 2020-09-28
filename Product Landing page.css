@@ -1,0 +1,147 @@
+.sidenav {
+    height: 100%;
+    width: 300px;
+    position: fixed;
+   
+    top: 0;
+    left: 0;
+    background-color:rgb(147,148,150);
+    overflow-x: hidden;
+    overflow-y: scroll;
+    padding-top: 20px;
+  }
+  a
+  {
+      text-align: center;
+      /* border-bottom: 1px solid black; */
+      text-decoration-line: none ;
+      color:black;
+      margin-left:8%;
+      font-size:15px;
+  }
+  #header
+  {
+      position:fixed;
+      margin-left:2%;
+      font-size:25px;
+      color:black;
+  }
+  
+  body{
+      background-color: rgb(190, 209, 241);
+  }
+  #intro{
+      margin-left:30%;
+      color:black;
+      /* font-size:20px; */
+
+  }
+  #intro-head
+  {
+    margin-left:28%;
+  }
+  
+  ul,li{
+    margin-left:15%;
+    color:black;
+    /* font-size:20px; */
+  }
+  a:hover{
+      cursor: pointer;
+  }
+  
+
+#
+{
+    margin-left:28%;
+}
+
+#second-sec
+{
+    margin-left:28%;
+    /* font-size:20px; */
+}
+#third-section
+{
+    margin-left:28%;
+
+}
+#fourth-section
+{
+    margin-left:29%;
+}
+#fifth-section
+{
+    margin-left:29%;   
+}
+#sixth-section
+{
+    
+    margin-left:29%;
+}
+#seven-section
+{
+    margin-left:29%;
+}
+#eight-section
+{
+    margin-left:29%;
+}
+#nine-section
+{
+    margin-left:29%;
+}
+#ten-section
+{
+    margin-left:29%;
+}
+#eleven-section
+{
+    margin-left:29%;
+}
+#twelve-section
+{
+    
+    margin-left:29%;
+}
+#thirteen-section
+{
+    margin-left:29%;
+}
+#fourteen-section
+{
+    margin-left:29%;
+}
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+    .sidenav{
+    height: 100%;
+    width: 150px;
+    position: fixed;
+   
+    top: 0;
+    left: 0;
+    background-color:rgb(147,148,150);
+    overflow-x: hidden;
+    overflow-y: scroll;
+    padding-top: 20px;
+  }
+  a
+  {
+      text-align: center;
+      /* border-bottom: 1px solid black; */
+      text-decoration-line: none ;
+      color:black;
+      margin-left:5%;
+      font-size:10px;
+  }
+  #header
+  {
+      position:fixed;
+      margin-left:2%;
+      font-size:15px;
+      color:black;
+  }
+}
